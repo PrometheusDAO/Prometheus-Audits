@@ -21,7 +21,7 @@ Completed audit reports of the Prometheus code will be publicly uploaded here.
 
 * [🚀 Announcements](https://t.me/PrometheusOfficialChanel)
 
-* [💬 Telegram chat](https://prometheusprotocol.finance)
+* [💬 Telegram chat](https://t.me/Prometheus_Official_Chat)
 
 * [📣 Twitter](https://twitter.com/Prometheus_DEFI)
 
